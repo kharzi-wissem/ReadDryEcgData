@@ -64,7 +64,13 @@ The recorded data is stored in CSV format using UART communication via a USB con
 
 **Data link to download**
 
-==> " https://doi.org/10.5281/zenodo.12812762 ""
+==> " https://doi.org/10.5281/zenodo.12812761 ""
+
+**Note:**
+
+   1- You can find in the attachment a set of scalogram representations of the data with different wavelets, converted using the CWT technique.
+
+   2.These data were used in transfer learning and gave a remarkable result, highlighting the unnecessary need for a huge dataset to train a transfer learning algorithm when the data is well recorded and the classes are distinguished.
 
 -For more details please feel free to **contact us** :
 *Kharziwisseme@hotmail.com
